@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.m205_tp3_recyclerview"
+    namespace = "com.example.eff_listView_sans"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.m205_tp3_recyclerview"
+        applicationId = "com.example.eff_listView_sans"
         minSdk = 28
         targetSdk = 33
         versionCode = 1

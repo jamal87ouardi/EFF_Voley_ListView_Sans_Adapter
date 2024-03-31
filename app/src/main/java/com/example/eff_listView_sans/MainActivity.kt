@@ -1,4 +1,4 @@
-package com.example.m205_tp3_recyclerview
+package com.example.eff_listView_sans
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
